@@ -1,7 +1,5 @@
 # FundamentosEstadistica
 
-# LaCucharaSearch
-
 Para probar este proyecto:
 
 1. Con una terminal de Git Bash, clona el repositorio:
