@@ -34,4 +34,4 @@ py -m venv .venv
 pip install -r requirements.txt
 ```
 
-7. Sigue las instrucciones del notebook [Fundamentos de estadistica.ipynb](Fundamentos de estadistica.ipynb).
+7. Sigue las instrucciones del notebook [notebook](Fundamentos_de_estadistica.ipynb).
